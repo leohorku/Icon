@@ -1,2 +1,2 @@
-# Icon
-Icon
+# icons
+icons
